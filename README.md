@@ -1,6 +1,6 @@
-# My First Portfolio
+# My Second Portfolio
 
-This is my first personal portfolio website, built using **HTML, CSS, and JavaScript**. I used a template from [ThemeWagon - Luther](https://themewagon.com/themes/luther/) as the base and customized it to showcase my work and skills.
+This is my second personal portfolio website, built using **HTML, CSS, and JavaScript**. I used a template from [ThemeWagon - Luther](https://themewagon.com/themes/luther/) as the base and customized it to showcase my work and skills.
 
 ## Features
 
