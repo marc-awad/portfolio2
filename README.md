@@ -1,6 +1,6 @@
 # My First Portfolio
 
-This is my first personal portfolio website, built using **HTML, CSS, and JavaScript**. I used a template from [ThemeWagon - Hudson](https://themewagon.com/themes/hudson/) as the base and customized it to showcase my work and skills.
+This is my first personal portfolio website, built using **HTML, CSS, and JavaScript**. I used a template from [ThemeWagon - Luther](https://themewagon.com/themes/luther/) as the base and customized it to showcase my work and skills.
 
 ## Features
 
@@ -25,7 +25,7 @@ The design is **clean, minimalistic, and easy to navigate**, focusing on simplic
 
 ## Credits
 
-- Template by [ThemeWagon - Hudson](https://themewagon.com/themes/hudson/)
+- Template by [ThemeWagon - Luther](https://themewagon.com/themes/luther/)
 
 ## Notes
 
